@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FooLogic.cs">
+    <Files>
+      <File FileName="ICalculateService.cs" Line="12" Column="1" />
+      <File FileName="CalculateService.cs" Line="20" Column="14" />
+      <File FileName="IOutputService.cs" Line="10" Column="2" />
+      <File FileName="OutputService.cs" Line="5" Column="45" />
+      <File FileName="BarLogic.cs" Line="17" Column="4" />
+      <File FileName="FooLogic.cs" Line="13" Column="1" />
+      <File FileName="BarLogic/Calc.cs" Line="16" Column="4" />
+      <File FileName="TestHelper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="UnitTests" expanded="True">
+            <Node name="BarLogic" expanded="True" />
+            <Node name="FooLogic.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="UnitTests" expanded="True">
+            <Node name="BarLogicTests" expanded="True" selected="True">
+              <Node name="Calc" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
