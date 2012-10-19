@@ -72,6 +72,7 @@
     <Compile Include="BarLogic.cs" />
     <Compile Include="FooLogic.cs" />
     <Compile Include="BarLogic\Calc.cs" />
+    <Compile Include="FooLogic\AddPrefix.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BarLogic\" />
